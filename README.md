@@ -14,7 +14,7 @@ Equal equity.
 
 ## Reading order
 
-* report/
+* Report/
 
   -01-Introduction.ipynb
   
