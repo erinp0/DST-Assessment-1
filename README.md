@@ -18,7 +18,7 @@ Equal equity.
 
   -01-Introduction.ipynb
   
-  -02-Data.ipynb
+  -Data
   
   -03-BaselineModel.ipynb
   
