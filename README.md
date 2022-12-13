@@ -20,19 +20,25 @@ Equal equity.
   
   -Data
   
-  -03-BaselineModel.ipynb
+  -02-DataCleaning.ipynb
   
-  -04-KNN.ipynb
+  -03-DataImputation.ipynb
   
-  -05-BoostedDecisionTree.ipynb
+  -04-ImputationEvaluation.ipynb
   
-  -06-LogisticRegression.ipynb
+  -05-BaselineModel.ipynb
+  
+  -06-KNN.ipynb
+  
+  -07-BoostedDecisionTree.ipynb
+  
+  -08-LogisticRegression.ipynb
   
   -Model results
   
-  -07-ModelComparison.ipynb
+  -09-ModelComparison.ipynb
   
-  -08-Discussion.ipynb
+  -10-Discussion.ipynb
   
   ## Description 
 A project focused on binary classification of patients for heart disease through model selection.
