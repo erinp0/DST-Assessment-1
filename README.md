@@ -28,6 +28,8 @@ Equal equity.
   
   -06-LogisticRegression.ipynb
   
+  -Model results
+  
   -07-ModelComparison.ipynb
   
   -08-Discussion.ipynb
